@@ -18,7 +18,7 @@ so you would have a rn42 module which is capable to act like an HID devices but 
 i have also attached the user manual of rn42 which helps me a lot of understanding the concept and building the code 
 
 <br>
-[<img align="centre" alt="HC05 module" width="50px" src="https://drive.google.com/file/d/1XSRA-0S8PrQ3e7d5u7-XL2438ZrYbif-/view?usp=sharing" />]
+[<img align="centre" alt="HC05 module" width="40px" src="https://www.google.com/aclk?sa=L&ai=DChcSEwjguZjeup3sAhURHisKHWzbAKwYABAIGgJzZg&sig=AOD64_1n-JpAup3oEs9FQaovCF3pEtRwbQ&ctype=5&q=&ved=2ahUKEwiboJDeup3sAhXYV30KHRfJBjcQ9aACegQIFhBw&adurl=" />]
 
 
 
